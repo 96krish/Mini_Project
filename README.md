@@ -1,0 +1,2 @@
+# Mini_Project
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/001db00166de4155b7a4cd4acbb79aaa)](https://app.codacy.com/app/96krish/Mini_Project?utm_source=github.com&utm_medium=referral&utm_content=96krish/Mini_Project&utm_campaign=Badge_Grade_Dashboard)
